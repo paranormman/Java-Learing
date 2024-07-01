@@ -1,0 +1,19 @@
+JAVA SYNTAX AND STRUCTURE
+
+variable
+It is a memory location that stores the data variables can store all kind of data.
+
+programing languages are dynamicly types or staticly typed 
+
+DYNAMICLY TYPED: dynamicly typed programing languages like JS are determined the variables at the run time through context in the code which means the programed dosent need to declare the variable.
+
+STATICLY TYPED:variable must be declared before the programing which means the DT is checked before it is complied 
+
+
+primitive and non-primitive DT topic completly
+type inference in locally type variable Var is the keyword used as type inference for the loal variable .
+ex: boolean iswaterwet
+instead var iswaterwet=true;
+type inference in variable is only allowed for the local variable.
+
+
