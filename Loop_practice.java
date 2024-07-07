@@ -4,20 +4,20 @@ public class Loop_practice {
     
     public static void main(String[] args) {
         // Ascending Pyramid
-        // for(int i = 1; i <= 5; i++){
-        //     for(int j = 1; j <= i; j++){
-        //         System.out.print("* ");
-        //     }
-        //     System.out.println();
-        // }
+        for(int i = 1; i <= 5; i++){
+            for(int j = 1; j <= i; j++){
+                System.out.print(j);
+            }
+            System.out.println();
+        }
 
         // Decending Pyramid
-        // for(int i = 5; i >= 1; i--){
-        //     for(int j = 1; j <= i; j++){
-        //         System.out.print("* ");
-        //     }
-        //     System.out.println();
-        // }
+        for(int i = 5; i >= 1; i--){
+            for(int j = 1; j <= i; j++){
+                System.out.print(j);
+            }
+            System.out.println();
+        }
 
         // sum of first n even numbers using for loop
         // int sum = 0, n = 3;
